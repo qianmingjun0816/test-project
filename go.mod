@@ -1,4 +1,4 @@
-module test-project
+module github.com/qianmingjun0816/test-project
 
 go 1.21.13
 
